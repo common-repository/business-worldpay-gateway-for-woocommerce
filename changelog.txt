@@ -1,0 +1,30 @@
+= 1.4.0 =
+Release Date: May 11, 2017
+
+* Woocommerce 3.0 support
+* Fix Set Signature Fields
+* Fix Payment Page languages
+* Fix Set order correct status for user cancelled payment
+
+= 1.3.0 =
+Release Date: November 19, 2016
+
+* Update worldpay payment currencies
+
+= 1.2.0 =
+Release Date: October 17, 2016
+
+* Added woocommerce_payment_complete filter support
+* Added support for sequential order numbers plugins
+* Fix Signature fields display bug
+
+= 1.1.0 =
+Release Date: October 1, 2016
+
+* Multi currency support
+
+
+= 1.0.0 =
+Release Date: May 12, 2016
+
+* Initial release

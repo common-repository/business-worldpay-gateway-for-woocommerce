@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mds-worldpay-woocommerce\n"
+"POT-Creation-Date: 2016-04-06 16:25+0300\n"
+"PO-Revision-Date: 2016-04-06 16:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-mds-worldpay-gateway.php:85
+msgid "WorldPay Business"
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:86
+msgid ""
+"WorldPay Business gateway sends customers to WorldPay to enter their payment "
+"information and redirects back to shop when the payment was completed."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:143
+#, php-format
+msgid ""
+"WorldPay doesn't accept your store currency. Check available currencies  %s "
+"here"
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:203
+msgid ""
+"Security check failed, the transaction wasn't successful, order has been "
+"canceled."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:210
+msgid "Payment Response password do not match."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:236
+msgid ""
+"Thank you for shopping with us.<br />Your payment transaction was "
+"successful, but the amount was paid to the wrong merchant account. Illegal "
+"hack attempt.<br />Your order is currently on-hold.<br />Contact us for more "
+"information."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:240
+#: admin/class-mds-worldpay-gateway.php:255
+msgid "WorldPay Transaction ID: "
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:243
+#, php-format
+msgid ""
+"Look into this order. <br />This order is currently on hold.<br />Reason: "
+"Illegal hack attempt. The order was successful but the money was paid to the "
+"wrong WorldPay account.<br /> Your WorldPay Installation ID %s the "
+"Installation id the payment was sent to %s<br />WorldPay Transaction ID: %s"
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:251
+msgid ""
+"Thank you for shopping with us.<br />Your payment transaction was "
+"successful, but the amount paid is not the same as the total order amount."
+"<br />Your order is currently on-hold.<br />Contact us for more information."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:258
+#, php-format
+msgid ""
+"Look into this order. <br />This order is currently on hold.<br />Reason: "
+"Amount paid is less than the total order amount.<br />Amount Paid was  %s "
+"while the total order amount is %s<br />WorldPay Transaction ID: %s"
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:264
+#: admin/class-mds-worldpay-gateway.php:295
+msgid ""
+"Thank you for shopping with us.<br />Your transaction was successful, "
+"payment was received.<br />Your order is currently being processed."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:268
+#, php-format
+msgid ""
+"Payment Received.<br />Your order is currently being processed.<br /"
+">WorldPay Transaction ID: %s"
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:271
+msgid "Payment Via WorldPay<br />Transaction ID: "
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:278
+msgid "Payment received, your order is now complete."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:281
+msgid ""
+"Thank you for shopping with us.<br />Your transaction was successful, "
+"payment was received.<br />Your order is now complete."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:285
+msgid ""
+"Payment Received.<br />Your order is now complete.<br />WorldPay Transaction "
+"ID: "
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:288
+msgid "Payment Via WorldPay <br />Transaction ID: "
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:292
+msgid "Payment received, your order is currently being processed."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:299
+msgid ""
+"Payment Received.<br />Your order is currently being processed.<br />We will "
+"be shipping your order to you soon.<br />WorldPay Transaction ID: "
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:302
+msgid "Payment Via WorldPay Payment Gateway<br />Transaction ID: "
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:330
+msgid ""
+"Thank you for shopping with us. <br />However, the transaction wasn't "
+"successful, payment has been canceled."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:337
+msgid "Payment canceled by user."
+msgstr ""
+
+#: admin/class-mds-worldpay-gateway.php:431
+msgid "Select the fields for the signature and save to generate the it"
+msgstr ""
+
+#: admin/partials/class-mds-worldpay-gateway-request.php:144
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: admin/partials/class-mds-worldpay-gateway-request.php:252
+msgid "Pay via WorldPay"
+msgstr ""
+
+#: admin/partials/class-mds-worldpay-gateway-request.php:253
+msgid "Cancel order"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:20
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:22
+msgid "Enable Business Payment Gateway"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:23
+msgid "Enable or disable the gateway."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:28
+msgid "Title"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:30
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:32
+msgid "WorldPay"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:35
+msgid "Description"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:37
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:38
+msgid ""
+"Pay via WorldPay: Accepts Mastercad, Maestro, Visa, American Express, JCB "
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:41
+msgid "Installation ID"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:43
+msgid ""
+"Add your Business WorldPay Installation ID from your Setup->Installation."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:48
+msgid "WorldPay Test Mode"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:50
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:51
+msgid ""
+"Enable or disable the test mode for the gateway to test the payment method."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:56
+msgid "Debug Log"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:58
+msgid "Enable logging"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:60
+#, php-format
+msgid "Log Worldpay events, inside <strong><code>%s</code></strong>"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:63
+msgid "Advanced options"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:68
+msgid "Payment Response Password "
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:70
+msgid ""
+"Add your Payment Response Password from your Setup->Installation->Payment "
+"Response Password. "
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:75
+msgid "MD5 Secret"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:77
+msgid ""
+"Add your Business WorldPay MD5 Secret from your Setup->Installation->MD5 "
+"secret for transactions."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:82
+msgid "Set Signature Fields"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:86
+msgid "Select signature fields for MD5 encryption."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:91
+msgid "Signature Fields"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:93
+msgid ""
+"The generated signature fields. Copy this in your WorldPay account Setup-"
+">Installations->Integration Setup->\"SignatureFields\" field"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:101
+msgid "Merchant Code"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:103
+msgid ""
+"This parameters will enable you to select which merchant code you would like "
+"payments to go through. You can select a total of three different ones. So "
+"for example if you would like payments to go through a specific merchant "
+"account you can input your preferred WorldPay merchant code in one of the "
+"fields. The first one to be used will be the one from the first field, if "
+"for some reason we the first one can't be used (incorrect currency, "
+"different capture delay settings, etc.), the second one will be used and "
+"then the third. If you do not know this information or you only have one "
+"merchant code you may leave these fields blank."
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:106
+msgid "Merchant Code 1"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:113
+msgid "Merchant Code 2"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:120
+msgid "Merchant Code 3"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:127
+msgid "Worldpay Payment Page Options"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:132
+msgid "Payment Page Billing Info"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:134
+msgid "Hide Billing Information"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:136
+msgid "Display the shopper billing contact information on payment page"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:139
+msgid "Payment Page Delivery Info"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:141
+msgid "With Delivery"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:146
+msgid ""
+"Display the shopper delivery information on payment page if shop shipping is "
+"enabled"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:149
+msgid "Payment Page Fix Info"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:151
+msgid "Fix Billing and Delivery Info"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:153
+msgid ""
+"Allow shopper to edit the billing and delivery information on payment page"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:156
+msgid "Payment Page Hide Language Menu"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:158
+msgid "Hide Language Menu"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:160
+msgid "Allow shopper to change the language on payment page"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:163
+msgid "Payment Page language"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:166
+msgid "Choose the default language shopper will see on Payment Page"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:196
+msgid "Payment Page Hide Currency"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:198
+msgid "Hide Currency"
+msgstr ""
+
+#: admin/partials/mds-admin-settings.php:200
+msgid "Allow shopper to change the payment currency."
+msgstr ""
+
+#: admin/partials/views/mds-admin-settings-template.php:33
+msgid "Payment gateway is disabled"
+msgstr ""
+
+#: admin/partials/views/mds-admin-settings-template.php:34
+msgid "Business WorldPay does not support your store currency."
+msgstr ""
+
+#: includes/class-mds-worldpay-woocommerce-activator.php:36
+#: includes/class-mds-worldpay-woocommerce-activator.php:42
+msgid ""
+"WorldPay Business Gateway for Woocommerce requires Woocommerce version 2.1 "
+"or higher"
+msgstr ""
+
+#: includes/class-mds-worldpay-woocommerce-activator.php:36
+#: includes/class-mds-worldpay-woocommerce-activator.php:42
+msgid "Plugin Activation Error"
+msgstr ""
